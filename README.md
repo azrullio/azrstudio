@@ -3,7 +3,7 @@
 ![Project Image](./readme_image.png)
 
 > This is a Music Streaming Website's FrontEnd similar to spotify, saavn etc.
-> You can view the project here: https://lakshdhamija.github.io/music_Streaming_Website_Frontend-HTML-CSS/
+> You can view the project here: https://azrullio.github.io/azrstudio/
 
 ---
 
@@ -29,6 +29,6 @@ This frontEnd project was made only using HTML and CSS. It has been made fully r
 
 ## Author Info
 
-- LinkedIn - [@lakshDhamija](https://linkedin.com/in/laksh-dhamija)
+
 
 [Back To The Top](#read-me-template)
